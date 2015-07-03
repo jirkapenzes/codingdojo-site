@@ -30,6 +30,8 @@
     :jihlava {
               :name "GDG Coding Dojo Jihlava"
               :events "http://www.gug.cz/cs/akce/gdg-coding-dojo-jihlava"
+              :repository "https://github.com/GDGJihlava/gdg-coding-dojo-jihlava"
               :organizers [
-                           ["@milanlempera" "https://twitter.com/milanlempera"]]}})
+                           ["@milanlempera" "https://twitter.com/milanlempera"]
+                           ["@GDGJihlava" "https://twitter.com/GDGJihlava"]]}})
 (defn all [] dojos)
