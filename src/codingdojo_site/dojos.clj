@@ -33,5 +33,14 @@
               :repository "https://github.com/GDGJihlava/gdg-coding-dojo-jihlava"
               :organizers [
                            ["@milanlempera" "https://twitter.com/milanlempera"]
-                           ["@GDGJihlava" "https://twitter.com/GDGJihlava"]]}})
+                           ["@GDGJihlava" "https://twitter.com/GDGJihlava"]]}
+
+    :budejovice {
+                :name "GDG Coding Dojo České Budějovice"
+                :events "http://www.gug.cz/cs/akce/coding-dojo-cb/"
+                :repository "https://github.com/GDGCB/coding-dojo"
+                :organizers [
+                             ["@hlavacm" "https://twitter.com/hlavacm"]
+                             ["@GDGBudejovice" "https://twitter.com/GDGBudejovice"]]}})
+
 (defn all [] dojos)
