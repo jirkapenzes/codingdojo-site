@@ -41,6 +41,15 @@
                 :repository "https://github.com/GDGCB/coding-dojo"
                 :organizers [
                              ["@hlavacm" "https://twitter.com/hlavacm"]
-                             ["@GDGBudejovice" "https://twitter.com/GDGBudejovice"]]}})
+                             ["@GDGBudejovice" "https://twitter.com/GDGBudejovice"]]}
+
+    :brno {
+                :name "GDG Coding Dojo Brno"
+                :events "http://www.gug.cz/cs/akce/gdg-coding-dojo-brno/"
+                :repository "https://github.com/GDGBrno/coding-dojo"
+                :organizers [
+                             ["@GDGBrno" "https://twitter.com/GDGBrno"]
+                             ["@VitaPlsek" "https://twitter.com/VitaPlsek"]
+                             ["@horakmat" "https://twitter.com/horakmat"]]}})
 
 (defn all [] dojos)
