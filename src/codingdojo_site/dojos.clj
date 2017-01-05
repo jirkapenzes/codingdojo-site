@@ -20,12 +20,12 @@
                               ["@TomasLatal" "https://twitter.com/TomasLatal"]]}
 
     :pardubice {
-                :name "Coding Dojo Pardubice"
+                :name "GDG Coding Dojo Pardubice"
                 :repository "https://github.com/CodingDojoPardubice/CodingDojo"
-                :events "http://srazy.info/coding-dojo-pardubice/terminy"
+                :events "https://www.meetup.com/GDG-Pardubice/"
                 :organizers [
                              ["@EmilRezanina" "https://twitter.com/EmilRezanina"]
-                             ["@MariskaMartin" "https://twitter.com/MariskaMartin"]]}
+                             ["@JanVoracek" "https://twitter.com/JanVoracek"]]}
 
     :jihlava {
               :name "GDG Coding Dojo Jihlava"
