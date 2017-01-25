@@ -1,4 +1,4 @@
-(ns codingdojo-site.dojos)
+﻿(ns codingdojo-site.dojos)
 
 (def dojos
   { :prague {
@@ -21,7 +21,7 @@
 
     :pardubice {
                 :name "GDG Coding Dojo Pardubice"
-                :repository "https://github.com/CodingDojoPardubice/CodingDojo"
+                :repository "https://github.com/GDGPardubice/coding-dojo"
                 :events "https://www.meetup.com/GDG-Pardubice/"
                 :organizers [
                              ["@EmilRezanina" "https://twitter.com/EmilRezanina"]
