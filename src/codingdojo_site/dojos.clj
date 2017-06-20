@@ -1,4 +1,4 @@
-﻿(ns codingdojo-site.dojos)
+(ns codingdojo-site.dojos)
 
 (def dojos
   { :prague {
