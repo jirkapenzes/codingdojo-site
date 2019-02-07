@@ -1,4 +1,4 @@
-(ns codingdojo-site.dojos)
+﻿(ns codingdojo-site.dojos)
 
 (def dojos
   { :prague {
@@ -11,21 +11,13 @@
                           ["@MarianSchubert" "https://twitter.com/marianschubert"]
                           ["@matejhron" "http://twitter.com/matejhron"]] }
 
-    :gmcolomouc {
-                 :name "GMC Coding Dojo"
-                 :events "http://srazy.info/gmc-coding-dojo/terminy"
-                 :repository "https://bitbucket.org/mcBIG/gmc-coding-dojo"
-                 :organizers [
-                              ["@mcBigCz" "https://twitter.com/mcBIGcz"]
-                              ["@TomasLatal" "https://twitter.com/TomasLatal"]]}
-
     :pardubice {
                 :name "GDG Coding Dojo Pardubice"
                 :repository "https://github.com/GDGPardubice/coding-dojo"
                 :events "https://www.meetup.com/GDG-Pardubice/"
                 :organizers [
                              ["@EmilRezanina" "https://twitter.com/EmilRezanina"]
-                             ["@JanVoracek" "https://twitter.com/JanVoracek"]]}
+                             ["@VendaskyCZ" "https://twitter.com/VendaskyCZ"]]}
 
     :jihlava {
               :name "GDG Coding Dojo Jihlava"
